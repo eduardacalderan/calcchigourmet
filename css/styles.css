@@ -364,6 +364,10 @@ nav.show div.icon-close {
   background-color: var(--base-color);
 }
 
+.swiper-container {
+  overflow: hidden;
+}
+
 /*========TESTIMONIALS=========*/
 
 #testimonials {
